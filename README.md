@@ -11,7 +11,7 @@ It includes:
 ## How to Run
 1. Open this project in Android Studio
 2. Build and run on an emulator or physical device
-[The project structure files can be found in the branch named "master"]
+3. The project structure files can be found in the branch named "master"
 
 ## Author
 Sumit Chatterjee 
