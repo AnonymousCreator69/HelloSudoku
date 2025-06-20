@@ -9,7 +9,7 @@ It includes:
 - Clean and modular code structure
 
 ## How to Run
-1. Open in Android Studio
+1. Open this project in Android Studio
 2. Build and run on an emulator or physical device
 
 ## Author
